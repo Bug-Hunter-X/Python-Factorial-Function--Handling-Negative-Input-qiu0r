@@ -1,0 +1,2 @@
+# Python Factorial Function Bug
+This repository demonstrates a common error in recursive functions: improper handling of negative input. The `factorialBug.py` file contains a function that calculates the factorial recursively but fails when given a negative integer as input, resulting in a stack overflow error. The solution, shown in `factorialSolution.py`, adds input validation to prevent this error.
